@@ -1,0 +1,11 @@
+{
+    "title" : "Education",
+    "schools" : [
+        {
+            "name" : "UNIVERSITY OF ALBERTA",
+            "degree" : "Bachelor of Computing Science Degree",
+            "finishYear" : "2017"
+
+        }
+    ]
+}

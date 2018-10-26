@@ -1,0 +1,39 @@
+{
+    "title" : "Projects",
+    "repositories" : "https://github.com/dingkailiang?tab=repositories",
+    "projects" : [
+        {
+            "name" : "Social Network Website Project",
+            "img" : "./img/django.png",
+            "target" : "https://github.com/dingkailiang/cmput404-project",
+            "finishTime" : "Fall 2017",
+            "contributes" : [
+                "Created a distributed social network website based on Django.",
+                "Introduced Bootstrap to the team, delegated and monitored the work of six group members.",
+                "Individually designed and implemented RESTful API and authorization feature using Django REST framework on the backend, wrote functions for jQuery AJAX calls on the front end."
+            ]
+        },
+        {
+            "name" : "StarCraft AI",
+            "img" : "./img/starcraft.jpg",
+            "target" : "https://github.com/dingkailiang/c350",
+            "finishTime" : "Winter 2015",
+            "contributes" : [
+                "Individually designed and implemented strategies against Zerg, received King Slayer Reward in the competition.",
+                "Identified issues and led four team members to prioritize and resolve problems.",
+                "Quickly understood and mastered the basic UAlbertaBot AI framework and turn high-level tactical strategies into code implementation."
+            ]
+        },
+        {
+            "name" : "DVD Collector Android APP",
+            "img" : "./img/android.jpg",
+            "target" : "https://github.com/dingkailiang/Project",
+            "finishTime" : "Fall 2015",
+            "contributes" : [
+                "Led a team to develop an application in Android Studio based on waterfall development model and acquire the ability to develop team project with git version control tool at high proficiency level.",
+                "Applied object-oriented concept and the MVC pattern to design the 3-tiers layer structure, drew a detailed UML diagram to show teammates my design ideas.",
+                "Quickly learned APIs of Elastic Search and use it as the basis backend for development."
+            ]
+        }
+    ] 
+}
