@@ -1,6 +1,10 @@
 {
     "Programing Languages" : [
         {
+            "icon" : "devicon-php-plain",
+            "name" : "PHP"
+        },
+        {
             "icon" : "devicon-python-plain",
             "name" : "Python"
         },
@@ -69,6 +73,10 @@
         {
             "icon" : "devicon-jetbrains-plain",
             "name" : "JetBrains"
+        },
+        {
+            "icon" : "devicon-visualstudio-plain",
+            "name" : "VS Code"
         }
     ],
 

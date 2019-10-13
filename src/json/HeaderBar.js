@@ -1,4 +1,4 @@
-{
+export default {
     "title" : "Welcome to my website",
     "navs" : [
         {
@@ -52,14 +52,14 @@
                     "icon" : "far fa-file-pdf",
                     "target" : "./files/Dylan Liang Resume.pdf"
                 },
-                {
-                    "type" : "divider"
-                },
-                {
-                    "name" : "List of Reference",
-                    "type" : "download",
-                    "target" : "./files/Dylan Liang References.docx"
-                }
+                // {
+                //     "type" : "divider"
+                // },
+                // {
+                //     "name" : "List of Reference",
+                //     "type" : "download",
+                //     "target" : "./files/Dylan Liang References.docx"
+                // }
             ]
         }
     ]

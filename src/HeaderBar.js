@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import data from "./json/HeaderBar.json"
+import data from "./json/HeaderBar";
 class HeaderBar extends Component { 
     constructor(props){
         super(props)
